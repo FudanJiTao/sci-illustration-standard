@@ -12,7 +12,7 @@
 ```bash
 npx skillsgate add 你的GitHub用户名/sci-illustration-standard
 
-方法二：手动复制 SKILL.md 内容
+### 方法二：手动复制 SKILL.md 内容
 
 将仓库中的 SKILL.md 内容粘贴到你的 AI 对话中作为系统提示（或保存为自定义指令）。
 
