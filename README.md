@@ -7,6 +7,7 @@
 ---
 
 ## 🚀 快速安装
+
 方法一：通用命令行（推荐）
 ```bash
 npx skillsgate add 你的GitHub用户名/sci-illustration-standard
